@@ -4,7 +4,6 @@
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping ext="liquid" type="Twig" />
-      <mapping pattern="liquid" type="textmate" />
     </extensionMap>
   </component>
 </application>

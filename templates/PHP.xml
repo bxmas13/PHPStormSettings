@@ -1,7 +1,0 @@
-<templateSet group="PHP">
-  <template name="try" value="try {&#10;    $END$&#10;} catch( Exception $e) {&#10;    //http_response_code(500);&#10;    $response = array(&#10;        'message' =&gt; $e-&gt;getMessage()&#10;    );&#10;    echo json_encode($response);&#10;}" description="try...catch" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
