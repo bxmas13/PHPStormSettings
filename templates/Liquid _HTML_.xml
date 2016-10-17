@@ -1,9 +1,0 @@
-<templateSet group="Liquid (HTML)">
-  <template name="com" value="{% comment %}&#10;    $SELECTION$ $END$&#10;{% endcomment %}" description="{% comment %}...{% endcomment %}" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="CSS" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
