@@ -64,14 +64,11 @@
       </value>
     </option>
     <option name="HTML_TAG">
-      <value>
-        <option name="BACKGROUND" value="e9f1f8" />
-      </value>
+      <value />
     </option>
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="7700" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.BLOCK_COMMENT">
