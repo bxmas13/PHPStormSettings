@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
