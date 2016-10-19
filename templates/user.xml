@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="com" value="{% comment %} $SELECTION$ $END$ {% endcomment %}" description="comment...endcomment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
