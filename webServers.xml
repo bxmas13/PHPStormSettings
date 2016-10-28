@@ -30,9 +30,12 @@
       <webServer id="ee62d061-220b-453d-8a17-538724461f5f" name="buyemergencyfoods.com" url="https://buyemergencyfoods.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c2b87e8e-7d91-4eb3-a7ec-3a835a52e06b" name="Befdevstore.local" url="http://befdevstore.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsJ+euLteVxMXjrG+8rtPyYkq8mX6AljwlBWNo2zAUceuboh6h7dTsI6c+BGmh1HV7BRIEPPyqJePAaok9WkU06St0z5aLp2vGNgpcGgLJaTBCpHCqEiJQrAoMnpM5LJpWp2TS4RidBKL+9tHbHVILaEjaj+y0gYfwPjPorizPHC+qhfI1zDWN5QJ79Q1l3NtKMglU6y4kLZChmQZ+bhxkuhu8UCTC/FO4E+k3QSo3kL2Ji5DnszNZkyGEWRaNnh6ZQ==</data>
+    <data>AAAAsDmG64yUGnMsoH49fuy6FXX5MLwZpC1j8Di6QKbx+3b95taj03/pB2vOxBV1b409jZVUqze6ZfU2Ll90G3CpoLPLhbdw72UPd1XFqGJIsBBkI0ADBN5h4/y2BeGnPuBe3hyepblHtGMsFWDzFT6l4gKqfcx9I9ro6F+8CyEh+wdfMW6T2hpNFts7h2+auzw/Q5yrGEOoarqtyXoyFXqIsuiwho2co5BQU73zcdd1ty062QUPsBC3dqbGPNmcA4IsmA==</data>
   </component>
 </application>
