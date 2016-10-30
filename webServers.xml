@@ -33,9 +33,12 @@
       <webServer id="c2b87e8e-7d91-4eb3-a7ec-3a835a52e06b" name="Befdevstore.local" url="http://befdevstore.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="56b54cfc-83a1-49bb-b5d7-13cb18201645" name="Marmail.io" url="http://marmail.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsPzYbPKHMU1yJY/bix+0MY+4rf1/Wn+oEUSIFxoQAhZ2RxwQW3rR5cgf5suKJ+UcmzouzJpC5S8Z7UB3ZYmU4ZfHJO4qOhkw735c36iKP7dSBIWJdoiX9VPz7C467VLdT4A90TKdg1fGfMnmNuB2YlQb7fxtut+l+uf+PyKtwb0Fnul9KM19CoCeNxcqD5TcMQDv4edI9PRadQ6RFTNKARsqdgZsBF4knxL/UqJSA0RUL+HDweJ6rr2pAY1g0XqZ9A==</data>
+    <data>AAAAsERb2xTFmAHHmDMDB7lTx64vuQ8NB3L6sA1AvRaO89G4F4CzQDhERo7+s4rONsTGZ0PLwTFjUFQuX1LgEVsPdY8YZembu36283FQ/fnxbBurVTKyBK6X5OMQs8z+CDaTh/Os9i/xygHWykKU5wbAyuiB3ZW9/M/SBqnCKh58BNvmzWZPkjPlx+jmwjCuVE3k1HWjJ5416oya9/9gdUYYlwayPp4RWEsYU3kzktk6GmkprATHoZV1W5KsOL+xqoA0Zw==</data>
   </component>
 </application>
