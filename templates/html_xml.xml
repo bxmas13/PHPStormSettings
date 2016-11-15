@@ -6,4 +6,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="com" value="{% comment %} $SELECTION$ $END$ {% endcomment %}" description="Liquid Comment" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
+      <mapping ext="liquid" type="HTML" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
     </extensionMap>
