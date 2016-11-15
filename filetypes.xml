@@ -4,9 +4,6 @@
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping pattern="html" type="textmate" />
-      <mapping pattern="liquid" type="textmate" />
-      <mapping ext="liquid" type="textmate" />
     </extensionMap>
   </component>
 </application>
