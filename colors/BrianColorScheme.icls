@@ -87,12 +87,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="f7faff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="dc143c" />
