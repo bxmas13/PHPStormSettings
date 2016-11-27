@@ -58,7 +58,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile $ProjectFileDir$ $FilePath$ " />
+      <option name="arguments" value="compile $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
