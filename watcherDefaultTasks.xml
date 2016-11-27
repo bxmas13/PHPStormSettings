@@ -58,14 +58,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile C:/xampp/htdocs/router.gongey.com/htdocs $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="$ProjectFileDir$\htdocs\public\css" />
+      <option name="output" value="C:/xampp/htdocs/router.gongey.com/htdocs" />
       <option name="outputFilters">
         <array />
       </option>
@@ -73,7 +73,7 @@
       <option name="program" value="C:/Ruby23/bin/compass.bat" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$ProjectFileDir$" />
+      <option name="workingDir" value="C:/xampp/htdocs/router.gongey.com/htdocs" />
       <envs />
     </TaskOptions>
   </component>
