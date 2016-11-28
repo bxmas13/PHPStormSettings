@@ -42,9 +42,6 @@
       <webServer id="ae35ed04-d6a3-49af-924c-ae440d895b98" name="preparewise.com" url="http://preparewise.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="82507f98-3281-4a84-a1bb-8de7f58c8212" name="tools.legacyfoodstorage.local" url="https://tools.legacyfoodstorage.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
