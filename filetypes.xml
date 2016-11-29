@@ -4,10 +4,10 @@
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="?twig" type="HTML" />
       <mapping pattern="?liquid" type="HTML" />
-      <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern="?js.liquid" type="JavaScript" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping pattern="*.scss.liquid" type="SCSS" />
-      <mapping pattern="?html" type="Twig" />
+      <mapping pattern="?scss.liquid" type="SCSS" />
+      <mapping pattern="?html" type="HTML" />
     </extensionMap>
   </component>
 </application>
