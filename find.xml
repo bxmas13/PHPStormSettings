@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[router.gongey.com] - ...\htdocs\resources\views\layouts\admin.blade.php'" />
-    <option name="defaultScopeName" value="File '[router.gongey.com] - ...\htdocs\resources\views\layouts\admin.blade.php'" />
-    <option name="SEARCH_SCOPE" value="File '[router.gongey.com] - ...\htdocs\resources\views\layouts\admin.blade.php'" />
+    <option name="customScope" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
+    <option name="defaultScopeName" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
+    <option name="SEARCH_SCOPE" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
   </component>
 </application>
