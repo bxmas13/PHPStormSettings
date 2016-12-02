@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
-    <option name="defaultScopeName" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
-    <option name="SEARCH_SCOPE" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
+    <option name="customScope" value="Project 'silverfernbrand.com'" />
+    <option name="defaultScopeName" value="Project 'silverfernbrand.com'" />
+    <option name="SEARCH_SCOPE" value="Project 'silverfernbrand.com'" />
   </component>
 </application>
