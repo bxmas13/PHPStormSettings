@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
-    <option name="defaultScopeName" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
-    <option name="SEARCH_SCOPE" value="File '[befdevstore.local] - ...\htdocs\snippets\main-nav.liquid'" />
+    <option name="customScope" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
+    <option name="defaultScopeName" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
+    <option name="SEARCH_SCOPE" value="File '[silverfernbrand.com] - ...\public_html\assets\sfb-theme.min.css.liquid'" />
   </component>
 </application>
