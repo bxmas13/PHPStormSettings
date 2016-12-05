@@ -42,6 +42,9 @@
       <webServer id="ae35ed04-d6a3-49af-924c-ae440d895b98" name="preparewise.com" url="http://preparewise.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="fa9c33f3-3bd3-400b-9aa2-b2731f01a1b3" name="Silverfernbrand.com Wholesale" url="http://wholesale.silverfernbrand.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

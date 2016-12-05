@@ -1,22 +1,22 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="compile $FileParentDir$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="$UnixSeparators($FileDir$)$" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby23/bin/compass.bat" />
-      <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="program" value="C:/Ruby21/bin/compass.bat" />
+      <option name="scopeName" value="_SCSS Directory" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$UnixSeparators($ProjectFileDir$)$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
@@ -57,23 +57,23 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile C:/xampp/htdocs/router.gongey.com/htdocs $UnixSeparators($FilePath$)$ --trace" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="compile C:/xampp/htdocs/befdevstore.local/htdocs/_scss $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="C:/xampp/htdocs/router.gongey.com/htdocs" />
+      <option name="output" value="C:/xampp/htdocs/befdevstore.local/htdocs/_scss/sass" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby23/bin/compass.bat" />
+      <option name="program" value="C:/Ruby21/bin/compass.bat" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="C:/xampp/htdocs/router.gongey.com/htdocs" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="C:/xampp/htdocs/befdevstore.local/htdocs/" />
       <envs />
     </TaskOptions>
   </component>
