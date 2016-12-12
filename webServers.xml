@@ -45,6 +45,9 @@
       <webServer id="fa9c33f3-3bd3-400b-9aa2-b2731f01a1b3" name="Silverfernbrand.com Wholesale" url="http://wholesale.silverfernbrand.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0258180e-f818-4ff9-b52f-12961424b418" name="thequicklock.com" url="https://thequicklock.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
