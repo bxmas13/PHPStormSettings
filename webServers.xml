@@ -48,6 +48,9 @@
       <webServer id="0258180e-f818-4ff9-b52f-12961424b418" name="thequicklock.com" url="https://thequicklock.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ccfba8fe-c64c-46b7-97e7-6aad91971844" name="cargunsafe.com" url="http://cargunsafe.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
