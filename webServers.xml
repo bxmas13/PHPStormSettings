@@ -51,6 +51,9 @@
       <webServer id="ccfba8fe-c64c-46b7-97e7-6aad91971844" name="cargunsafe.com" url="http://cargunsafe.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="11ba7dd7-e74a-4cfc-9891-f1efed32d8bd" name="calls.legacyfoodstorage.com" url="http://calls.legacyfoodstorage.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
