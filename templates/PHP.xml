@@ -11,5 +11,9 @@
   </template>
   <template name="forl" value="for ($ITERABLE$ = 1; $ITERABLE$ &lt;= 10; $ITERABLE$++) {&#10;    echo $ITERABLE$;&#10;}&#10;" description="for loop" toReformat="false" toShortenFQNames="true">
     <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
