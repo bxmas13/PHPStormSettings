@@ -1,0 +1,7 @@
+<templateSet group="jQuery">
+  <template name="ajax" value="$.ajax({&#10;    url: &quot;/someurl&quot;,&#10;    method: &quot;GET&quot;,&#10;    data: { &#10;      a: &quot;a&quot;&#10;  })&#10;  .done(function(data) {&#10;    console.log('success', data) &#10;  })&#10;  .fail(function(xhr) {&#10;    console.log('error', xhr);&#10;  });" description="Basic ajax layout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
