@@ -1,4 +1,4 @@
-<templateSet group="Laravel">
+<templateSet group="Laravel-Blade">
   <template name="@elseif" value="@elseif ($START$)&#10;    $END$" description="Blade @elseif" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
