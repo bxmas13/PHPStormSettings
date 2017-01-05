@@ -1,0 +1,9 @@
+<templateSet group="Laravel">
+  <template name="test" value="@fdasd" description="asdf" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="PHP" value="true" />
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>
