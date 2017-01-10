@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Photoshop" description="Photoshop" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Adobe\Adobe Photoshop CC 2015\Photoshop.exe $FileDirPathFromParent$" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Adobe/Adobe Photoshop CC 2015" />
+    </exec>
+  </tool>
+</toolSet>
