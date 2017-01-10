@@ -4,7 +4,7 @@
       <webServer id="8b1bf3c8-422d-4a16-8257-6e890af9b290" name="Legacyfoodstorage.com" url="http://legacyfoodstorage.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="76c8e782-4d21-410f-ade1-f225d5da88cd" name="Silverfernbrand.com" url="http://silverfernbrand.com">
+      <webServer id="76c8e782-4d21-410f-ade1-f225d5da88cd" name="Silverfernbrand.com" url="http://silverfernbrand.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="20034351-8d67-40b8-8c33-072e096ca3b3" name="tools.legacyfoodstorage.com" url="https://tools.legacyfoodstorage.com">
