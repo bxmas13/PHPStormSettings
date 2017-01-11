@@ -56,6 +56,9 @@
       <webServer id="11ba7dd7-e74a-4cfc-9891-f1efed32d8bd" name="calls.legacyfoodstorage.com" url="http://calls.legacyfoodstorage.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3f137f88-bb9a-420e-b267-f6b3dafe68a6" name="thegunbox.com" url="http://thegunbox.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
