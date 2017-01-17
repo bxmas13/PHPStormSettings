@@ -57,15 +57,15 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="compile C:/xampp/htdocs/befdevstore.local/htdocs/_scss $UnixSeparators($FilePath$)$" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="compile C:/xampp/htdocs/buyemergencyfoods.com/public_html/_scss $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="C:/xampp/htdocs/befdevstore.local/htdocs/_scss/sass" />
+      <option name="output" value="C:/xampp/htdocs/buyemergencyfoods.com/public_html/_scss" />
       <option name="outputFilters">
         <array />
       </option>
@@ -73,7 +73,7 @@
       <option name="program" value="C:/Ruby21/bin/compass.bat" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="C:/xampp/htdocs/befdevstore.local/htdocs/" />
+      <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
   </component>
