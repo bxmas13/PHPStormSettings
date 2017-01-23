@@ -59,6 +59,9 @@
       <webServer id="3f137f88-bb9a-420e-b267-f6b3dafe68a6" name="thegunbox.com" url="http://thegunbox.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="36482791-5234-4cd3-9701-b6d204706833" name="nonitribe.com" url="http://nonitribe.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
