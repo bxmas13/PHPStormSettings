@@ -4,8 +4,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="JSP" value="false" />
       <option name="PHP" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="form::text::group" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {!!  Form::label('$NAME$', '$VALUE$:', ['class' =&gt; 'control-label']) !!}&#10;    {!! Form::text('$NAME$', null, ['class' =&gt; 'form-control']) !!}&#10;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
@@ -15,8 +15,8 @@
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
       <option name="HTML" value="true" />
-      <option name="JSP" value="false" />
       <option name="PHP" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="form::errors" value="@if($errors-&gt;any())&#10;    @foreach($errors-&gt;all() as $error)&#10;        &lt;ul class=&quot;alert alert-danger&quot;&gt;&#10;            &lt;li&gt; {{$error}}&lt;/li&gt;&#10;        &lt;/ul&gt;&#10;    @endforeach&#10;@endif" toReformat="true" toShortenFQNames="true">
@@ -24,8 +24,8 @@
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
       <option name="HTML" value="true" />
-      <option name="JSP" value="false" />
       <option name="PHP" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="form::input::group" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {!!  Form::label('$NAME$', '$VALUE1$:', ['class' =&gt; 'control-label']) !!}&#10;    {!! Form::input('$TYPE$','$NAME$','$VALUE$',$OPTION$) !!}$END$&#10;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
@@ -44,8 +44,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="JSP" value="false" />
       <option name="PHP" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
