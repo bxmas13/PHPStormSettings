@@ -62,6 +62,9 @@
       <webServer id="36482791-5234-4cd3-9701-b6d204706833" name="nonitribe.com" url="http://nonitribe.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="582a8df3-f893-4628-b689-6c335d0106b9" name="safetechproducts.com" url="http://safetechproducts.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
