@@ -6,8 +6,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::add" value="Cache::add('$KEY$', $VALUE$, $MINUTES$);$END$" description="Store an item in the Cache if it doesn't exist (key, value, minutes)" toReformat="true" toShortenFQNames="true">
@@ -17,8 +17,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::forever" value="Cache::forever('$KEY$', $VALUE$);$END$" description="Store an item in the Cache Permanently" toReformat="true" toShortenFQNames="true">
@@ -27,8 +27,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::has" value="if (Cache::has('$KEY$'))&#10;{&#10;&#9;$END$&#10;}" description="Check for existence in Cache" toReformat="true" toShortenFQNames="true">
@@ -36,8 +36,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::get" value="Cache::get('$KEY$'$DEFAULT$);$END$" description="Retrieve an Item from the Cache" toReformat="true" toShortenFQNames="true">
@@ -46,8 +46,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::remember" value="Cache::remember('$KEY$', $MINUTES$, function()&#10;{&#10;    $END$&#10;});" description="Retrieve item or Store a default value if it doesn't exist" toReformat="true" toShortenFQNames="true">
@@ -56,8 +56,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::rememberForever" value="Cache::rememberForever('$KEY$', function()&#10;{&#10;    $END$&#10;});" description="Retrieve item or Store a default value permanently" toReformat="true" toShortenFQNames="true">
@@ -65,8 +65,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::forget" value="Cache::forget('$KEY$');$END$" description="Remove an Item from the Cache" toReformat="true" toShortenFQNames="true">
@@ -74,8 +74,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::increment" value="Cache::increment('$KEY$');" description="Increment a Cached value" toReformat="true" toShortenFQNames="true">
@@ -83,8 +83,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Cache::decrement" value="Cache::decrement('$KEY$');" description="Decrement a Cached value" toReformat="true" toShortenFQNames="true">
@@ -92,8 +92,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
