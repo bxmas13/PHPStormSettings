@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[thegunbox.com] - ...\htdocs\support\index.php'" />
-    <option name="defaultScopeName" value="File '[thegunbox.com] - ...\htdocs\support\index.php'" />
-    <option name="SEARCH_SCOPE" value="File '[thegunbox.com] - ...\htdocs\support\index.php'" />
+    <option name="customScope" value="Project 'Nonidirect.com'" />
+    <option name="defaultScopeName" value="Project 'Nonidirect.com'" />
+    <option name="SEARCH_SCOPE" value="Project 'Nonidirect.com'" />
   </component>
 </application>
