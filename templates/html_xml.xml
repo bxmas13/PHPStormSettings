@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="script" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;$END$&#10;&lt;/script&gt;" description="javascript tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
