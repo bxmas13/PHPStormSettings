@@ -65,6 +65,9 @@
       <webServer id="582a8df3-f893-4628-b689-6c335d0106b9" name="safetechproducts.com" url="http://safetechproducts.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a29eb5b1-3612-4887-89da-28ee40e3490f" name="LFS Dev" url="https://legacyfoodstorage-dev.myshopify.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
