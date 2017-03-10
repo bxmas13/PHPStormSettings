@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Nonidirect.com'" />
-    <option name="defaultScopeName" value="Project 'Nonidirect.com'" />
+    <option name="customScope" value="File '[silverfernbrand.com] - ...\theme-170267018\assets\stickyNav.scss.liquid'" />
+    <option name="defaultScopeName" value="File '[silverfernbrand.com] - ...\theme-170267018\assets\stickyNav.scss.liquid'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Nonidirect.com'" />
+    <option name="SEARCH_SCOPE" value="File '[silverfernbrand.com] - ...\theme-170267018\assets\stickyNav.scss.liquid'" />
   </component>
 </application>

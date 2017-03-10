@@ -34,5 +34,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.ToggleSortValues">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
