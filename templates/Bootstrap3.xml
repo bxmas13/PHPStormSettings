@@ -4,15 +4,15 @@
     <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -22,15 +22,15 @@
     <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -40,15 +40,15 @@
     <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -58,15 +58,15 @@
     <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -76,15 +76,15 @@
     <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -92,16 +92,16 @@
   <template name="bs3-badge" value="&lt;span class=&quot;badge&quot;&gt;$var1$&lt;/span&gt;$END$" description="Badge" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="&quot;Badge&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GSP" value="true" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="OTHER" value="true" />
       <option name="XML" value="false" />
       <option name="JSP" value="true" />
       <option name="CSS" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="HAML" value="false" />
-      <option name="OTHER" value="true" />
+      <option name="GSP" value="true" />
       <option name="SQL" value="false" />
     </context>
   </template>
@@ -111,15 +111,15 @@
     <variable name="var3" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -127,15 +127,15 @@
   <template name="bs3-cdn:css" value="&lt;!-- Latest compiled and minified CSS --&gt;&#10;&lt;link rel=&quot;stylesheet&quot; href=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css&quot;&gt;$END$" description="Bootstrap 3 CSS CDN" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -143,15 +143,15 @@
   <template name="bs3-cdn:js" value="&lt;!-- Latest compiled and minified JS --&gt;&#10;&lt;script src=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;$END$" description="Bootstrap 3 JavaScript CDN" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -159,15 +159,15 @@
   <template name="bs3-cdn" value="&lt;!-- Latest compiled and minified CSS &amp; JS --&gt;&#10;&lt;link rel=&quot;stylesheet&quot; media=&quot;screen&quot; href=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css&quot;&gt;&#10;&lt;script src=&quot;//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;$END$" description="Bootstrap 3 CSS &amp; JS CDN" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -176,15 +176,15 @@
     <variable name="var1" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -193,15 +193,15 @@
     <variable name="var1" expression="&quot;icon&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -211,15 +211,15 @@
     <variable name="size" expression="&quot; fa-2x&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -230,15 +230,15 @@
     <variable name="var3" expression="&quot;Image&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -255,15 +255,15 @@
     <variable name="var9" expression="&quot;Action&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -275,15 +275,15 @@
     <variable name="var4" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -294,15 +294,15 @@
     <variable name="var3" expression="&quot;Learn more&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -311,15 +311,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -328,15 +328,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -345,15 +345,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -362,15 +362,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -379,15 +379,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -396,15 +396,15 @@
     <variable name="var1" expression="&quot;Label&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -415,15 +415,15 @@
     <variable name="var3" expression="&quot;Item 3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -434,15 +434,15 @@
     <variable name="var3" expression="&quot;Item 3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -452,15 +452,15 @@
     <variable name="var2" expression="&quot;Content goes here&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -474,15 +474,15 @@
     <variable name="var6" expression="&quot;Item 3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -495,15 +495,15 @@
     <variable name="var5" expression="&quot;Text goes here&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -516,15 +516,15 @@
     <variable name="var5" expression="&quot;Save changes&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -534,15 +534,15 @@
     <variable name="var2" expression="&quot;Subtext&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -550,15 +550,15 @@
   <template name="bs3-pager:aligned" value="&lt;ul class=&quot;pager&quot;&gt;&#10;&#9;&lt;li class=&quot;previous&quot;&gt;&lt;a href=&quot;#&quot;&gt;&amp;larr; Older&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;#&quot;&gt;Newer &amp;rarr;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="Pager (Aligned)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -566,15 +566,15 @@
   <template name="bs3-pager" value="&lt;ul class=&quot;pager&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Previous&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Next&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="Pager" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -582,15 +582,15 @@
   <template name="bs3-pagination:large" value="&lt;ul class=&quot;pagination pagination-large&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;4&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;5&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="Pagination (Large)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -598,15 +598,15 @@
   <template name="bs3-pagination:small" value="&lt;ul class=&quot;pagination pagination-small&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;4&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;5&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="Pagination (Small)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -614,15 +614,15 @@
   <template name="bs3-pagination" value="&lt;ul class=&quot;pagination&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;laquo;&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;4&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;5&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;raquo;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;$END$" description="Pagination" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -632,15 +632,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -650,15 +650,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -668,15 +668,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -686,15 +686,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -704,15 +704,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -723,15 +723,15 @@
     <variable name="var2" expression="&quot;Panel footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -742,15 +742,15 @@
     <variable name="var3" expression="&quot;Panel body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -760,15 +760,15 @@
     <variable name="var2" expression="&quot;Panel body ...&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -783,15 +783,15 @@
     <variable name="var7" expression="&quot;Table Content 2&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -802,15 +802,15 @@
     <variable name="var3" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -819,15 +819,15 @@
     <variable name="var1" expression="&quot; table-hover&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -836,15 +836,15 @@
     <variable name="var1" expression="&quot; table-hover&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -852,15 +852,15 @@
   <template name="bs3-table:hover" value="&lt;table class=&quot;table table-hover&quot;&gt;&#10;&#9;&lt;thead&gt;&#10;&#9;&#9;&lt;tr&gt;&#10;&#9;&#9;&#9;&lt;th&gt;&lt;/th&gt;&#10;&#9;&#9;&lt;/tr&gt;&#10;&#9;&lt;/thead&gt;&#10;&#9;&lt;tbody&gt;&#10;&#9;&#9;&lt;tr&gt;&#10;&#9;&#9;&#9;&lt;td&gt;&lt;/td&gt;&#10;&#9;&#9;&lt;/tr&gt;&#10;&#9;&lt;/tbody&gt;&#10;&lt;/table&gt;$END$" description="Table (Hover)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -869,15 +869,15 @@
     <variable name="var1" expression="&quot; table-hover&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -886,15 +886,15 @@
     <variable name="var1" expression="&quot; table-hover&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -903,15 +903,15 @@
     <variable name="var1" expression="&quot; table-hover&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -922,15 +922,15 @@
     <variable name="var3" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -940,15 +940,15 @@
     <variable name="var2" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -960,15 +960,15 @@
     <variable name="var4" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -980,15 +980,15 @@
     <variable name="var4" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -999,15 +999,15 @@
     <variable name="var3" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1018,15 +1018,15 @@
     <variable name="var3" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1037,15 +1037,15 @@
     <variable name="var3" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1057,15 +1057,15 @@
     <variable name="var4" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1075,15 +1075,15 @@
     <variable name="var2" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1095,15 +1095,15 @@
     <variable name="var4" expression="&quot;Link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1112,15 +1112,15 @@
     <variable name="var1" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1130,15 +1130,15 @@
     <variable name="var2" expression="&quot;Home&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1146,15 +1146,15 @@
   <template name="bs3-container" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Container" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1162,15 +1162,15 @@
   <template name="bs3-row" value="&lt;div class=&quot;row&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Row" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1178,15 +1178,15 @@
   <template name="bs3-col:1" value="&lt;div class=&quot;col-xs-1 col-sm-1 col-md-1 col-lg-1&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 1" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1194,15 +1194,15 @@
   <template name="bs3-col:2" value="&lt;div class=&quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1210,15 +1210,15 @@
   <template name="bs3-col:3" value="&lt;div class=&quot;col-xs-3 col-sm-3 col-md-3 col-lg-3&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 3" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1226,15 +1226,15 @@
   <template name="bs3-col:4" value="&lt;div class=&quot;col-xs-4 col-sm-4 col-md-4 col-lg-4&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 4" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1242,15 +1242,15 @@
   <template name="bs3-col:5" value="&lt;div class=&quot;col-xs-5 col-sm-5 col-md-5 col-lg-5&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 5" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1258,15 +1258,15 @@
   <template name="bs3-col:6" value="&lt;div class=&quot;col-xs-6 col-sm-6 col-md-6 col-lg-6&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 6" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1274,15 +1274,15 @@
   <template name="bs3-col:7" value="&lt;div class=&quot;col-xs-7 col-sm-7 col-md-7 col-lg-7&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 7" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1290,15 +1290,15 @@
   <template name="bs3-col:8" value="&lt;div class=&quot;col-xs-8 col-sm-8 col-md-8 col-lg-8&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 8" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1306,15 +1306,15 @@
   <template name="bs3-col:9" value="&lt;div class=&quot;col-xs-9 col-sm-9 col-md-9 col-lg-9&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 9" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1322,15 +1322,15 @@
   <template name="bs3-col:10" value="&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 10" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1338,15 +1338,15 @@
   <template name="bs3-col:11" value="&lt;div class=&quot;col-xs-11 col-sm-11 col-md-11 col-lg-11&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 11" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1354,15 +1354,15 @@
   <template name="bs3-col:12" value="&lt;div class=&quot;col-xs-12 col-sm-12 col-md-12 col-lg-12&quot;&gt;&#10;&#9;$END$&#10;&lt;/div&gt;" description="Column 12" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1374,15 +1374,15 @@
     <variable name="var4" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1393,15 +1393,15 @@
     <variable name="var3" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1413,15 +1413,15 @@
     <variable name="var4" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1432,15 +1432,15 @@
     <variable name="var3" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1451,15 +1451,15 @@
     <variable name="var3" expression="Checkbox" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1473,15 +1473,15 @@
     <variable name="var6" expression="&quot; required=\&quot;required\&quot;&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1498,15 +1498,15 @@
     <variable name="var9" expression="&quot; required=\&quot;required\&quot;&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1517,15 +1517,15 @@
     <variable name="var3" expression="&quot; -- Select One -- &quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1539,15 +1539,15 @@
     <variable name="var6" expression="&quot; -- Select One -- &quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1560,15 +1560,15 @@
     <variable name="var5" expression="&quot;Radio box&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1579,15 +1579,15 @@
     <variable name="var3" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>
@@ -1597,15 +1597,15 @@
     <variable name="var2" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JSP" value="true" />
-      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="HAML" value="false" />
       <option name="CSS" value="false" />
       <option name="OTHER" value="true" />
-      <option name="GSP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="JSP" value="true" />
       <option name="TypeScript" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
+      <option name="GSP" value="true" />
       <option name="CoffeeScript" value="false" />
       <option name="JSX_HTML" value="false" />
     </context>

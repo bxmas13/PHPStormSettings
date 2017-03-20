@@ -5,8 +5,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::route" value="route('$ROUTE$', $PARAMS$);$END$" description="Generate a URL for a given named route" toReformat="true" toShortenFQNames="true">
@@ -15,8 +15,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::asset" value="asset('$PATH$');$END$" description="Generate a URL for an asset" toReformat="true" toShortenFQNames="true">
@@ -24,8 +24,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::link_to" value="link_to('$LINK$', $TITLE$, $ATTRIBUTES$, $SECURE$);$END$" description="Generate a HTML link to the given URL" toReformat="true" toShortenFQNames="true">
@@ -36,8 +36,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::link_to_asset" value="link_to_asset('$LINK$', $TITLE$, $ATTRIBUTES$, $SECURE$);$END$" description="Generate a HTML link to the given asset" toReformat="true" toShortenFQNames="true">
@@ -48,8 +48,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::link_to_route" value="link_to_route('$LINK$', $TITLE$, $PARAMETERS$, $ATTRIBUTES$);$END$" description="Generate a HTML link to the given route" toReformat="true" toShortenFQNames="true">
@@ -60,8 +60,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::link_to_action" value="link_to_action('$LINK$', $TITLE$, $PARAMETERS$, $ATTRIBUTES$);$END$" description="Generate a HTML link to the given controller action" toReformat="true" toShortenFQNames="true">
@@ -72,8 +72,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::secure_asset" value="secure_asset('$LINK$', $TITLE$, $ATTRIBUTES$);$END$" description="Generate a HTML link to the given asset using HTTPS" toReformat="true" toShortenFQNames="true">
@@ -83,8 +83,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::secure_url" value="secure_url('$LINK$'$PARAMS$);$END$" description="Generate a fully qualified URL to a given path using HTTPS" toReformat="true" toShortenFQNames="true">
@@ -93,8 +93,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::url" value="url('$LINK$'$PARAMS$ $SECURE$);$END$" description="Generate a fully qualified URL to a given path" toReformat="true" toShortenFQNames="true">
@@ -104,8 +104,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="Helper::path" value="$PATH$" description="Paths to directories" toReformat="true" toShortenFQNames="true">
@@ -113,8 +113,8 @@
     <context>
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
-      <option name="PHP" value="true" />
       <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
