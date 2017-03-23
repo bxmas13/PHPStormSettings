@@ -3,6 +3,7 @@
     <context>
       <option name="CSS" value="true" />
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
