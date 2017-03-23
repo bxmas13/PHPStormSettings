@@ -95,10 +95,10 @@
     <variable name="FILTER" expression="" defaultValue="&quot;'admin'&quot;" alwaysStopAt="true" />
     <variable name="HTTP" expression="" defaultValue="&quot;array('post')&quot;" alwaysStopAt="true" />
     <context>
-      <option name="PHP String Literal" value="false" />
-      <option name="PHP Comment" value="false" />
       <option name="JSP" value="false" />
       <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
     </context>
   </template>
 </templateSet>
