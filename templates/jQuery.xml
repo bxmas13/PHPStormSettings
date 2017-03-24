@@ -4,4 +4,22 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="readys" value="$(function() {&#10;    $END$&#10;});" description="On Ready shorthand" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ready" value="$( document ).ready(function() {&#10;    $END$&#10;});" description="On Ready" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
