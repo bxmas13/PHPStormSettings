@@ -70,6 +70,7 @@
     <variable name="PARAMETERS" expression="" defaultValue="&quot;$parameters&quot;" alwaysStopAt="true" />
     <variable name="ATTRIBUTES" expression="" defaultValue="&quot;$attributes&quot;" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="true" />
       <option name="JSP" value="false" />
       <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
