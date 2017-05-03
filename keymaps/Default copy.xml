@@ -6,10 +6,12 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDuplicate" />
-  <action id="EditorNextWordWithSelection">
+  <action id="EditorNextWordWithSelection" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="FileChooser.GotoDesktop" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowGulpTasks">
