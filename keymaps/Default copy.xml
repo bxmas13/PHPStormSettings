@@ -6,7 +6,6 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDuplicate" />
-  <action id="EditorNextWordWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
