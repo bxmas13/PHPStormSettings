@@ -68,6 +68,9 @@
       <webServer id="a29eb5b1-3612-4887-89da-28ee40e3490f" name="LFS Dev" url="https://legacyfoodstorage-dev.myshopify.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8e6b272c-e9df-4b8d-996c-cc6d71970db5" name="wiki.brianchristmas.local" url="http://wiki.brianchristmas.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
