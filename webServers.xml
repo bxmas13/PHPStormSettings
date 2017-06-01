@@ -71,9 +71,6 @@
       <webServer id="8e6b272c-e9df-4b8d-996c-cc6d71970db5" name="wiki.brianchristmas.local" url="http://wiki.brianchristmas.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="2373743a-eb68-40e8-b714-436929ce3d9e" name="discount.legacyfoodstorage.com" url="https://discount.legacyfoodstorage.com">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
