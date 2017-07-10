@@ -3,9 +3,6 @@
     <option name="SMART_INDENT_ON_ENTER" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_PHP_TAGS" value="true" />
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
