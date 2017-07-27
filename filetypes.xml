@@ -3,9 +3,8 @@
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="New file" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
