@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles\global\main-pw-css.scss'" />
+    <option name="defaultScopeName" value="File '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles\global\main-pw-css.scss'" />
+    <option name="SEARCH_SCOPE" value="File '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles\global\main-pw-css.scss'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
