@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles'" />
-    <option name="defaultScopeName" value="Directory '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles'" />
-    <option name="SEARCH_SCOPE" value="Directory '[preparewise.com] - ...\public_html\PrepareWise-2.1\src\styles'" />
+    <option name="customScope" value="PW2.1" />
+    <option name="defaultScopeName" value="PW2.1" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="PW2.1" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
