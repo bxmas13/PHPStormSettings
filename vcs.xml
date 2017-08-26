@@ -18,8 +18,12 @@
           <option name="url" value="ssh://bxmas@marmail.io:/var/www/marmail.io/marmail_io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://legacyfood@server.legacyfoodstorage.com:/home/legacyfood/repositories/preparewise.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp\htdocs\marmail.io\htdocs" />
+    <option name="cloneParentDir" value="C:\xampp\htdocs\preparewise.com" />
   </component>
 </application>
